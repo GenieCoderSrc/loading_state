@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  bloc: ^9.0.0
+  bloc: ^9.2.1
 
 dev_dependencies:
   flutter_test:
