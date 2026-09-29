@@ -1,0 +1,12 @@
+name: loading_state
+description: "A lightweight Flutter package with a simple Cubit for managing loading states using show() and hide() methods."
+version: 0.0.1
+homepage: https://github.com/GenieCoderSrc/loading_state
+repository: https://github.com/GenieCoderSrc/loading_state
+issue_tracker: https://github.com/GenieCoderSrc/loading_state/issues
+
+
+environment:
+  sdk: \x27>=3.6.0 <4.0.0\x27
+  resolution: workspace
+  resolution: workspace
