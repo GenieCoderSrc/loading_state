@@ -18,6 +18,8 @@ A lightweight Dart/Flutter package that provides a simple `LoadingCubit` for man
 Add this to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   loading_state: <latest_version>
 ```
